@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name":"Harry Potter & The Deathly Hollows",
+        "price": 999,
+        "imgurl": "/images/deathly.jpeg"
+    },
+    {
+        "id": 2,
+        "name":"Harry Potter & The philosophers stone",
+        "price": 799,
+        "imgurl": "/images/philosophers.jpeg"
+    },
+    {
+        "id": 3,
+        "name":"Harry Potter & The chamber of secrets",
+        "price": 599,
+        "imgurl": "/images/chamber.jpeg"
+    },
+    {
+        "id": 4,
+        "name":"Harry Potter & The Prisoner of Azkban",
+        "price": 599,
+        "imgurl": "/images/chamber.jpeg"
+    },
+    {
+        "id": 5,
+        "name":"Harry Potter & the prisoner of Askaban",
+        "price": 799,
+        "imgurl": "/images/chamber.jpeg"
+    },
+    {
+        "id": 6,
+        "name":"Harry Potter & The goblet of fire",
+        "price": 499,
+        "imgurl": "/images/chamber.jpeg"
+    },
+    {
+        "id": 7,
+        "name":"Harry Potter & The half blood prince",
+        "price": 899,
+        "imgurl": "/images/chamber.jpeg"
+    }
+]
